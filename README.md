@@ -26,13 +26,11 @@ This project allows users to toggle between **Login** and **Sign Up** forms with
 
 ## 📂 Project Structure
 LoginForm/
-│── public/
-│── src/
-│ │── AuthForm.jsx
-│ │── App.jsx
-│ │── main.jsx
-│── index.html
-│── package.json
+ src/
+├── App.jsx
+├── AuthForm.jsx
+├── main.jsx
+├── App.css
 
 
 ---
