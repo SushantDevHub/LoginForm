@@ -1,16 +1,55 @@
-# React + Vite
+ # 🔐 Login & Signup Form (React)
 
-This template provides a minimal setup to get React working in Vite with HMR and some Oxlint rules.
+A simple and responsive authentication UI built using **React.js**.  
+This project allows users to toggle between **Login** and **Sign Up** forms with a clean and modern interface.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Features
 
-## React Compiler
+- 🔄 Toggle between Login and Sign Up forms
+- 🎨 Clean and responsive UI
+- ⚛️ Built using React functional components
+- 🧠 State management using `useState`
+- 📱 Mobile-friendly design (if CSS added)
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+---
 
-## Expanding the Oxlint configuration
+## 🛠️ Tech Stack
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and Oxlint's TypeScript related rules in your project.
+- React.js
+- JavaScript (ES6+)
+- HTML5
+- CSS3 (custom styling)
+
+---
+
+## 📂 Project Structure
+LoginForm/
+│── public/
+│── src/
+│ │── AuthForm.jsx
+│ │── App.jsx
+│ │── main.jsx
+│── index.html
+│── package.json
+
+
+---
+
+## ⚙️ Installation & Setup
+
+Follow these steps to run the project locally:
+
+```bash
+# Clone the repository
+git clone https://github.com/SushantDevHub/LoginForm.git
+
+# Navigate to project folder
+cd LoginForm
+
+# Install dependencies
+npm install
+
+# Start development server
+npm run dev
