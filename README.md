@@ -3,8 +3,6 @@
 A simple and responsive authentication UI built using **React.js**.  
 This project allows users to toggle between **Login** and **Sign Up** forms with a clean and modern interface.
 
----
-
 ## 🚀 Features
 
 - 🔄 Toggle between Login and Sign Up forms
@@ -13,14 +11,12 @@ This project allows users to toggle between **Login** and **Sign Up** forms with
 - 🧠 State management using `useState`
 - 📱 Mobile-friendly design (if CSS added)
 
----
-
 ## 🛠️ Tech Stack
 
 - React.js
-- JavaScript (ES6+)
+- JavaScript 
 - HTML5
-- CSS3 (custom styling)
+- CSS3 
 
 ---
 
